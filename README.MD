@@ -46,10 +46,10 @@ Com uma proposta **jornalística e de entretenimento**, o episódio combina **ar
 
 | Etapa | Ferramenta | Descrição |
 |-------|-------------|-----------|
-| **Roteiro** | 🧩 ChatGPT (OpenAI) | Criação do roteiro completo do episódio, com falas, pausas e marcações de entonação. |
+| **Roteiro** | 🧩 [ChatGPT (OpenAI)](https://chatgpt.com/) | Criação do roteiro completo do episódio, com falas, pausas e marcações de entonação. |
 | **Geração de Voz** | 🗣️ [Typecast.ai](https://typecast.ai) | Criação das vozes realistas dos três personagens, com diferentes tons e expressões. |
 | **Edição e Mixagem** | 🎬 [CapCut](https://www.capcut.com) | Edição do áudio, inserção de vinhetas, trilha sonora e ambientação sonora de café. |
-| **Capa do Podcast** | 🎨 Leonardo.ai | Criação da arte de capa com temática tecnológica e jornalística. |
+| **Capa do Podcast** | 🎨 [Leonardo.ai](https://leonardo.ai/) | Criação da arte de capa com temática tecnológica e jornalística. |
 
 
 ---
@@ -61,7 +61,7 @@ Com uma proposta **jornalística e de entretenimento**, o episódio combina **ar
 3. **Reflexão** — Discussão sobre ética, consciência e empatia  
 4. **Encerramento** — Mensagem final sobre equilíbrio entre progresso e humanidade  
 
-Duração aproximada: **12 minutos**
+Duração aproximada: **5 minutos**
 
 ---
 
@@ -80,13 +80,13 @@ Projeto criado como parte de um **curso de Inteligência Artificial**.
 - 🗣️ **Vozes geradas por IA:** Typecast.ai  
 - 🎧 **Edição:** CapCut  
 - 🎨 **Capa:** Leonardo.ai  
-- ✍️ **Criação e direção:** Brenda Gomes Gouveia dos Santos  
+- ✍️ **Criação e direção:** Brenda G. Gouveia 
 
 ---
 
 ## 📢 Ouça agora
 
-> 🔗 *[Adicione aqui o link do episódio (Spotify, YouTube, Google Podcasts, etc.)]*  
+> 🔗 *[Para escuta-lo clique aqui](https://github.com/brenda-gouveia/Podcast_sobre_IA/output/audio_sintetizado.MP3)*  
 
 ---
 

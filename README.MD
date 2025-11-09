@@ -1,99 +1,98 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
-    width="300"
+    src="./assets/cover.jpg"
+    width="400"
 />
 </p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
 
-<p align="center">
-    preview do podcast
-</p>
+# 🎙️ Robôs, Ética e Café: um diálogo entre o otimismo tecnológico e o ceticismo humano
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+> **Um podcast criado com IA sobre os dilemas éticos e filosóficos da Inteligência Artificial.**
 
-# Projeto Podcast Gerado por I.A.s
+> **Este podcast foi desenvolvido como parte do curso “Criando um Podcast com IAs Generativas”, oferecido pela [DIO](https://www.dio.me/) (Digital Innovation One) e ministrado pelo expert [Felipe Aguiar](https://github.com/felipeAguiarCode) .**
 
+## ☕ Sobre o podcast
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+**Robôs, Ética e Café** é um episódio de podcast que explora, de forma leve e reflexiva, as fronteiras entre **tecnologia, ética e humanidade**.  
+A narrativa se desenrola como uma conversa de café entre uma jornalista e dois especialistas com visões opostas sobre o avanço da Inteligência Artificial.
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+Com uma proposta **jornalística e de entretenimento**, o episódio combina **argumentos técnicos, filosóficos e éticos**, proporcionando ao ouvinte uma imersão nos principais debates que moldam o futuro da IA.
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 🎧 Personagens
+
+| Personagem | Descrição |
+|-------------|------------|
+| **Ana Paula Duarte** | Jornalista e mediadora da conversa. Representa a curiosidade e o equilíbrio entre os dois pontos de vista. Conduz o diálogo com empatia, promovendo perguntas provocativas e reflexivas. |
+| **Alan Tavares** | Especialista em Inteligência Artificial. Didático e otimista, defende a IA como ferramenta de progresso e inovação, destacando seu potencial para melhorar a vida humana se usada com responsabilidade. |
+| **Denis Rocha** | Filósofo e sociólogo da tecnologia. Cético e reflexivo, alerta sobre os riscos da automação, a perda de empregos e as implicações éticas de máquinas que tomam decisões humanas. Representa o lado mais crítico e humanista do debate. |
+
+---
+
+## 🧠 Temas abordados
+
+- Ética e responsabilidade no desenvolvimento da IA  
+- Vieses algorítmicos e justiça digital  
+- O impacto da automação no mercado de trabalho  
+- Filosofia da tecnologia e consciência das máquinas  
+- Medos inspirados na ficção científica (como *Exterminador do Futuro* e *Matrix*)  
+- O papel da empatia humana na era das inteligências artificiais  
+
+---
+
+## 🛠️ Tecnologias e ferramentas utilizadas
+
+| Etapa | Ferramenta | Descrição |
+|-------|-------------|-----------|
+| **Roteiro** | 🧩 ChatGPT (OpenAI) | Criação do roteiro completo do episódio, com falas, pausas e marcações de entonação. |
+| **Geração de Voz** | 🗣️ [Typecast.ai](https://typecast.ai) | Criação das vozes realistas dos três personagens, com diferentes tons e expressões. |
+| **Edição e Mixagem** | 🎬 [CapCut](https://www.capcut.com) | Edição do áudio, inserção de vinhetas, trilha sonora e ambientação sonora de café. |
+| **Capa do Podcast** | 🎨 Leonardo.ai | Criação da arte de capa com temática tecnológica e jornalística. |
+
+
+---
+
+## 💬 Estrutura do episódio
+
+1. **Abertura** — Introdução ao tema e aos participantes  
+2. **Debate** — Confronto de ideias entre otimismo e ceticismo  
+3. **Reflexão** — Discussão sobre ética, consciência e empatia  
+4. **Encerramento** — Mensagem final sobre equilíbrio entre progresso e humanidade  
+
+Duração aproximada: **12 minutos**
+
+---
+
+## 🧩 Mensagem principal
+
+> A Inteligência Artificial não é apenas uma questão tecnológica, mas **um espelho da nossa própria humanidade**.  
+> O verdadeiro desafio talvez não seja ensinar máquinas a pensar, e sim lembrar os humanos de sentir.
+
+---
+
+## 📚 Créditos e autoria
+
+Projeto criado como parte de um **curso de Inteligência Artificial**.
+
+- 🎙️ **Roteiro:** ChatGPT (OpenAI)  
+- 🗣️ **Vozes geradas por IA:** Typecast.ai  
+- 🎧 **Edição:** CapCut  
+- 🎨 **Capa:** Leonardo.ai  
+- ✍️ **Criação e direção:** Brenda Gomes Gouveia dos Santos  
+
+---
+
+## 📢 Ouça agora
+
+> 🔗 *[Adicione aqui o link do episódio (Spotify, YouTube, Google Podcasts, etc.)]*  
+
+---
+
+## 🧭 Licença
+
+Este projeto é de uso educacional e experimental.  
+Os áudios e o roteiro foram criados com o apoio de ferramentas de IA, respeitando o uso ético de inteligência artificial e direitos autorais de trilhas e vozes.
+
+---

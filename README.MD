@@ -86,7 +86,7 @@ Projeto criado como parte de um **curso de Inteligência Artificial**.
 
 ## 📢 Ouça agora
 
-> 🔗 *[Para escuta-lo clique aqui](https://github.com/brenda-gouveia/Podcast_sobre_IA/output/audio_sintetizado.MP3)*  
+> 🔗 *[Para baixa-lo clique aqui](https://github.com/brenda-gouveia/Podcast_sobre_IA/blob/main/output/audio_sintetizado.MP3)*  
 
 ---
 
